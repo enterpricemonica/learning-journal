@@ -1,16 +1,38 @@
-# Día 1 — Configuración del entorno
+# Day 1 — May 28, 2026
 
-Hoy instalé Ubuntu en Windows usando WSL2. 
-Configuré Windows Terminal con una fuente Nerd Font y el prompt Starship.
-Aprendí comandos básicos como pwd, ls, mkdir, cd y touch.
-Creé mi carpeta learning-journal donde voy a guardar mi progreso.
-Fue confuso al principio pero lo logré!
+**Today's focus:** Set up Ubuntu on Windows with WSL and made my first GitHub commit.
 
+**Time spent:** 180 min
 
-# Day 1 — Environment Setup
+**Confidence today (1–5): 3
 
-Today I installed Ubuntu on Windows using WSL2.
-I configured Windows Terminal with a Nerd Font and the Starship prompt.
-I learned basic commands like pwd, ls, mkdir, cd and touch.
-I created my learning-journal folder where I will save my progress.
-It was challenging at first but I made it!
+### ✅ What I did
+- Installed WSL2 + Ubuntu with `wsl --install`
+- Installed Windows Terminal and customized it with a Nerd Font
+- Installed the Starship prompt
+- Learned basic commands: pwd, ls, cd, mkdir, touch
+- Created my learning-journal folder
+- Made a GitHub account and pushed my first commit
+
+### 💡 What I learned (in my own words)
+- WSL lets me run real Linux inside Windows without deleting anything.
+- A commit is a saved snapshot of my work; push sends it to GitHub.
+- The terminal doesn't show characters when typing a password — that's normal.
+
+### 💻 Commands / code I used
+
+wsl --install
+pwd / ls / cd / mkdir / touch
+git add .
+git commit -m "message"
+git push -u origin main
+
+### 🧗 Where I got stuck → how I got unstuck
+- Stuck on: GitHub authentication kept failing.
+- Fixed it by: generating a Personal Access Token and using right-click to paste it.
+
+### 🎉 Win of the day
+- My terminal looks awesome and my first green square is on GitHub! 🟩
+
+### ➡️ Tomorrow's first step
+- Practice new commands: cat, cp, mv, rm and do the Git loop alone.
