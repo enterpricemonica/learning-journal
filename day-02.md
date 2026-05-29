@@ -20,7 +20,7 @@
 
 ### 💻 Commands / code I used
 
-cat day-01.md
+cat day-01.md previe
 cp day-01.md copia-prueba.md
 mv copia-prueba.md prueba-renombrada.md
 rm prueba-renombrada.md
